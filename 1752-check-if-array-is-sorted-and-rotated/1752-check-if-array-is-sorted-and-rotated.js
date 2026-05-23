@@ -1,0 +1,19 @@
+/**
+ * @param {number[]} nums
+ * @return {boolean}
+ */
+var check = function(nums) {
+
+    let count = 0;
+
+    for(let i = 0; i < nums.length; i++){
+
+        let next = (i + 1) % nums.length;
+
+        if(nums[i] > nums[next]){
+            count++;
+        }
+    }
+
+    return count <= 1;
+};
