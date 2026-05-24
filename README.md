@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/haranck/Leetcode-problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/haranck/Leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/haranck/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/haranck/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/haranck/Leetcode-problems/tree/master/0938-range-sum-of-bst) |
@@ -194,12 +195,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/haranck/Leetcode-problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/haranck/Leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/haranck/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/haranck/Leetcode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/haranck/Leetcode-problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/haranck/Leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/haranck/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/haranck/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/haranck/Leetcode-problems/tree/master/0938-range-sum-of-bst) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/haranck/Leetcode-problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/haranck/Leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/haranck/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/haranck/Leetcode-problems/tree/master/0938-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/haranck/Leetcode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
