@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/haranck/Leetcode-problems/tree/master/3028-ant-on-the-boundary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/haranck/Leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/haranck/Leetcode-problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/haranck/Leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/haranck/Leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2396-strictly-palindromic-number](https://github.com/haranck/Leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/haranck/Leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/haranck/Leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
