@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/haranck/Leetcode-problems/tree/master/1854-maximum-population-year) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/haranck/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/haranck/Leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2126-destroying-asteroids](https://github.com/haranck/Leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2540-minimum-common-value](https://github.com/haranck/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/haranck/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/haranck/Leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/haranck/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/haranck/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/haranck/Leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2126-destroying-asteroids](https://github.com/haranck/Leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haranck/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/haranck/Leetcode-problems/tree/master/0942-di-string-match) |
 | [1323-maximum-69-number](https://github.com/haranck/Leetcode-problems/tree/master/1323-maximum-69-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/haranck/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2126-destroying-asteroids](https://github.com/haranck/Leetcode-problems/tree/master/2126-destroying-asteroids) |
 ## Tree
 |  |
 | ------- |
