@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/haranck/Leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/haranck/Leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/haranck/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/haranck/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/haranck/Leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/haranck/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/haranck/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/haranck/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/haranck/Leetcode-problems/tree/master/0942-di-string-match) |
 | [1332-remove-palindromic-subsequences](https://github.com/haranck/Leetcode-problems/tree/master/1332-remove-palindromic-subsequences) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/haranck/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/haranck/Leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/haranck/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haranck/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/haranck/Leetcode-problems/tree/master/0682-baseball-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/haranck/Leetcode-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/haranck/Leetcode-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/haranck/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/haranck/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3028-ant-on-the-boundary](https://github.com/haranck/Leetcode-problems/tree/master/3028-ant-on-the-boundary) |
 ## Depth-First Search
