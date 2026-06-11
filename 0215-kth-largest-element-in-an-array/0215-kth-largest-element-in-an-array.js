@@ -47,16 +47,15 @@ class MyMaxHeap {
 }
 var findKthLargest = function (nums, k) {
     const max = new MyMaxHeap()
-    for(let num of nums){
+    for (let num of nums) {
         max.insert(num)
     }
     let i = 1
-    while(k > i){
+    while (k > i) {
         max.remove()
         i++
     }
     return max.remove()
-    console.log(max.remove())
 };
 
 
