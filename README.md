@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/haranck/Leetcode-problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1068-product-sales-analysis-i](https://github.com/haranck/Leetcode-problems/tree/master/1068-product-sales-analysis-i) |
 ## Binary Search Tree
 |  |
