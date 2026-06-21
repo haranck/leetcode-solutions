@@ -34,6 +34,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/haranck/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1732-find-the-highest-altitude](https://github.com/haranck/Leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/haranck/Leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/haranck/Leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1854-maximum-population-year](https://github.com/haranck/Leetcode-problems/tree/master/1854-maximum-population-year) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/haranck/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/haranck/Leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -216,6 +217,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [1051-height-checker](https://github.com/haranck/Leetcode-problems/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/haranck/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/haranck/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/haranck/Leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/haranck/Leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/haranck/Leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/haranck/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -243,12 +245,14 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | ------- |
 | [0912-sort-an-array](https://github.com/haranck/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/haranck/Leetcode-problems/tree/master/1051-height-checker) |
+| [1833-maximum-ice-cream-bars](https://github.com/haranck/Leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/haranck/Leetcode-problems/tree/master/0942-di-string-match) |
 | [1323-maximum-69-number](https://github.com/haranck/Leetcode-problems/tree/master/1323-maximum-69-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/haranck/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/haranck/Leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/haranck/Leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/haranck/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/haranck/Leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
