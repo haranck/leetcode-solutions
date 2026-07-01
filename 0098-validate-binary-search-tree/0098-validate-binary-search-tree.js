@@ -24,11 +24,3 @@ var isValidBST = function (root) {
     }
     return validBst(node, min = -Infinity, max = Infinity)
 };
-
-
-
-
-
-
-
-
