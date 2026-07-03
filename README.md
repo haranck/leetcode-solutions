@@ -21,6 +21,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0189-rotate-array](https://github.com/haranck/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/haranck/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/haranck/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0648-replace-words](https://github.com/haranck/leetcode-solutions/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/haranck/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/haranck/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/haranck/Leetcode-problems/tree/master/0941-valid-mountain-array) |
@@ -72,6 +73,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0208-implement-trie-prefix-tree](https://github.com/haranck/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/haranck/Leetcode-problems/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/haranck/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0648-replace-words](https://github.com/haranck/leetcode-solutions/tree/master/0648-replace-words) |
 | [1189-maximum-number-of-balloons](https://github.com/haranck/Leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/haranck/Leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -97,6 +99,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0290-word-pattern](https://github.com/haranck/Leetcode-problems/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/haranck/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/haranck/Leetcode-problems/tree/master/0520-detect-capital) |
+| [0648-replace-words](https://github.com/haranck/leetcode-solutions/tree/master/0648-replace-words) |
 | [0709-to-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/0709-to-lower-case) |
 | [0942-di-string-match](https://github.com/haranck/Leetcode-problems/tree/master/0942-di-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/haranck/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -376,6 +379,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | ------- |
 | [0014-longest-common-prefix](https://github.com/haranck/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/haranck/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0648-replace-words](https://github.com/haranck/leetcode-solutions/tree/master/0648-replace-words) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/haranck/Leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Design
 |  |
