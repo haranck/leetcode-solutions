@@ -29,6 +29,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [1046-last-stone-weight](https://github.com/haranck/Leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/haranck/Leetcode-problems/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/haranck/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/haranck/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/haranck/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1539-kth-missing-positive-number](https://github.com/haranck/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/haranck/Leetcode-problems/tree/master/1550-three-consecutive-odds) |
@@ -237,6 +238,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0912-sort-an-array](https://github.com/haranck/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/haranck/Leetcode-problems/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/haranck/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/haranck/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/haranck/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/haranck/Leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/haranck/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
