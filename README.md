@@ -60,6 +60,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [3046-split-the-array](https://github.com/haranck/Leetcode-problems/tree/master/3046-split-the-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/haranck/Leetcode-problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/haranck/Leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/haranck/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/haranck/Leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/haranck/Leetcode-problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3838-weighted-word-mapping](https://github.com/haranck/Leetcode-problems/tree/master/3838-weighted-word-mapping) |
@@ -88,6 +89,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [3120-count-the-number-of-special-characters-i](https://github.com/haranck/Leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/haranck/Leetcode-problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/haranck/Leetcode-problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/haranck/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/haranck/Leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -229,6 +231,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [1539-kth-missing-positive-number](https://github.com/haranck/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [2540-minimum-common-value](https://github.com/haranck/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haranck/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/haranck/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/haranck/Leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
@@ -433,4 +436,12 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/haranck/Leetcode-problems/tree/master/0912-sort-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/haranck/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/haranck/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
