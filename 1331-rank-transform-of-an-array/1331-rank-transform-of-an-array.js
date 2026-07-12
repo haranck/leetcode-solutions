@@ -3,7 +3,7 @@
  * @return {number[]}
  */
 var arrayRankTransform = function(arr) {
-    
+
     let newarr = []
     let uniq  = [...arr].sort((a,b)=>a-b)
     let sort = [...new Set(uniq)]
@@ -15,4 +15,5 @@ var arrayRankTransform = function(arr) {
         newarr.push(obj[arr[i]])
     }
     return newarr
+    
 };
