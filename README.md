@@ -31,6 +31,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [1200-minimum-absolute-difference](https://github.com/haranck/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/haranck/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/haranck/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1331-rank-transform-of-an-array](https://github.com/haranck/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/haranck/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/haranck/Leetcode-problems/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/haranck/Leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
@@ -79,6 +80,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0648-replace-words](https://github.com/haranck/leetcode-solutions/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/haranck/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1189-maximum-number-of-balloons](https://github.com/haranck/Leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/haranck/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/haranck/Leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2540-minimum-common-value](https://github.com/haranck/Leetcode-problems/tree/master/2540-minimum-common-value) |
@@ -243,6 +245,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [1051-height-checker](https://github.com/haranck/Leetcode-problems/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/haranck/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/haranck/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/haranck/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/haranck/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/haranck/Leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/haranck/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
