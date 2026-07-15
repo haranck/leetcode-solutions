@@ -180,6 +180,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [2396-strictly-palindromic-number](https://github.com/haranck/Leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/haranck/Leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/haranck/Leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/haranck/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/haranck/Leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/haranck/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -363,6 +364,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/haranck/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/haranck/Leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/haranck/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
