@@ -66,6 +66,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [3689-maximum-total-subarray-value-i](https://github.com/haranck/Leetcode-problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3838-weighted-word-mapping](https://github.com/haranck/Leetcode-problems/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/haranck/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/haranck/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/haranck/Leetcode-problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -383,6 +384,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0036-valid-sudoku](https://github.com/haranck/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/haranck/Leetcode-problems/tree/master/0048-rotate-image) |
 | [1572-matrix-diagonal-sum](https://github.com/haranck/Leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/haranck/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Memoization
 |  |
 | ------- |
@@ -456,4 +458,5 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/haranck/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/haranck/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
