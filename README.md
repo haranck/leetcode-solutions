@@ -112,6 +112,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0709-to-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/0709-to-lower-case) |
 | [0942-di-string-match](https://github.com/haranck/Leetcode-problems/tree/master/0942-di-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/haranck/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/haranck/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/haranck/Leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1332-remove-palindromic-subsequences](https://github.com/haranck/Leetcode-problems/tree/master/1332-remove-palindromic-subsequences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/haranck/Leetcode-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -290,6 +291,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/haranck/Leetcode-problems/tree/master/0942-di-string-match) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/haranck/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/haranck/Leetcode-problems/tree/master/1323-maximum-69-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/haranck/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/haranck/Leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -364,6 +366,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | ------- |
 | [0682-baseball-game](https://github.com/haranck/Leetcode-problems/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/haranck/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/haranck/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/haranck/Leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Number Theory
 |  |
@@ -459,4 +462,8 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/haranck/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/haranck/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/haranck/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
