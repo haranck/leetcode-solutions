@@ -148,6 +148,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0876-middle-of-the-linked-list](https://github.com/haranck/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/haranck/Leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/haranck/Leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/haranck/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/haranck/Leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -349,6 +350,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [1688-count-of-matches-in-tournament](https://github.com/haranck/Leetcode-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/haranck/Leetcode-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/haranck/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/haranck/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/haranck/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3028-ant-on-the-boundary](https://github.com/haranck/Leetcode-problems/tree/master/3028-ant-on-the-boundary) |
 | [3612-process-string-with-special-operations-i](https://github.com/haranck/Leetcode-problems/tree/master/3612-process-string-with-special-operations-i) |
