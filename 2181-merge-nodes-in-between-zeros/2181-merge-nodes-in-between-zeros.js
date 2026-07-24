@@ -11,22 +11,20 @@
  * @return {ListNode}
  */
 var mergeNodes = function(head) {
-    let dummy = new ListNode(0);
-    let tail = dummy;
+    let dummy = new ListNode(0)
+    let tail = dummy
 
-    let curr = head.next; // skip first zero
-    let sum = 0;
-
-    while (curr) {
-        if (curr.val === 0) {
-            tail.next = new ListNode(sum);
-            tail = tail.next;
-            sum = 0;
-        } else {
-            sum += curr.val;
+    let current = head.next
+    let sum = 0
+    while(current){
+        if(current.val === 0){
+            tail.next = new ListNode(sum)
+            tail = tail.next
+            sum = 0
+        }else{
+            sum+=current.val
         }
-        curr = curr.next;
+        current = current.next
     }
-
-    return dummy.next;
+    return dummy.next
 };
