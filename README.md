@@ -129,6 +129,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [3120-count-the-number-of-special-characters-i](https://github.com/haranck/Leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/haranck/Leetcode-problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/haranck/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/haranck/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/haranck/Leetcode-problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/haranck/Leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/haranck/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
@@ -273,6 +274,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [2126-destroying-asteroids](https://github.com/haranck/Leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/haranck/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haranck/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/haranck/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/haranck/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/haranck/Leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/haranck/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -301,6 +303,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0912-sort-an-array](https://github.com/haranck/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/haranck/Leetcode-problems/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/haranck/Leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/haranck/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
