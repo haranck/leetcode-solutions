@@ -3,21 +3,18 @@
  * @return {number}
  */
 var minimumPushes = function (word) {
-
-    let splits = word.split('')
-    let set = [...new Set(splits)]
-
-    let obj = {}
-
-    for (let i = 0; i < set.length; i++) {
-        obj[set[i]] = Math.ceil((i+1)/8)
-    }
-    console.log(obj)
     let count = 0
-
-    for(let char of word){
-        count+= obj[char]
+    let length = word.length
+    let i = 1
+    while (length > 0) {
+        if (length >= 8) {
+            count += i*8
+        }else{
+            count+=length*i
+        }
+        length-=8
+        i++
     }
-    console.log(count)
     return count
+
 };
