@@ -126,6 +126,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2490-circular-sentence](https://github.com/haranck/Leetcode-problems/tree/master/2490-circular-sentence) |
 | [2678-number-of-senior-citizens](https://github.com/haranck/Leetcode-problems/tree/master/2678-number-of-senior-citizens) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/haranck/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/haranck/Leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/haranck/Leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/haranck/Leetcode-problems/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -191,6 +192,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [2119-a-number-after-a-double-reversal](https://github.com/haranck/Leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2396-strictly-palindromic-number](https://github.com/haranck/Leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/haranck/Leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/haranck/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/haranck/Leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/haranck/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/haranck/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -317,6 +319,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/haranck/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/haranck/Leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/haranck/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/haranck/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/haranck/Leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/haranck/Leetcode-problems/tree/master/3689-maximum-total-subarray-value-i) |
 ## Tree
