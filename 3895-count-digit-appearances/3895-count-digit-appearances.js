@@ -14,7 +14,5 @@ var countDigitOccurrences = function(nums, digit) {
             count++
         }
     }
-    console.log(count)
-    console.log(num)
     return count
 };
