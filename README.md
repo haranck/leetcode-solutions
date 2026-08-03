@@ -24,6 +24,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0628-maximum-product-of-three-numbers](https://github.com/haranck/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/haranck/leetcode-solutions/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/haranck/Leetcode-problems/tree/master/0682-baseball-game) |
+| [0877-stone-game](https://github.com/haranck/leetcode-solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/haranck/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/haranck/Leetcode-problems/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/haranck/Leetcode-problems/tree/master/0942-di-string-match) |
@@ -186,6 +187,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0509-fibonacci-number](https://github.com/haranck/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/haranck/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/haranck/Leetcode-problems/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/haranck/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/haranck/Leetcode-problems/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/haranck/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/haranck/Leetcode-problems/tree/master/1323-maximum-69-number) |
@@ -212,6 +214,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0338-counting-bits](https://github.com/haranck/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/haranck/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/haranck/Leetcode-problems/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/haranck/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/haranck/Leetcode-problems/tree/master/1025-divisor-game) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/haranck/Leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Brainteaser
@@ -222,6 +225,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/haranck/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/haranck/Leetcode-problems/tree/master/1025-divisor-game) |
 ## Backtracking
 |  |
