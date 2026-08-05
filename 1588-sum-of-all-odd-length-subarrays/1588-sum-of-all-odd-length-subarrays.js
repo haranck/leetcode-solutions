@@ -12,6 +12,5 @@ var sumOddLengthSubarrays = function (arr) {
             }
         }
     }
-    console.log(sum)
     return sum
 };
