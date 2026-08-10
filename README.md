@@ -177,6 +177,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | ------- |
 | [1291-sequential-digits](https://github.com/haranck/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2843-count-symmetric-integers](https://github.com/haranck/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/haranck/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/haranck/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/haranck/Leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -204,6 +205,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [2119-a-number-after-a-double-reversal](https://github.com/haranck/Leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2396-strictly-palindromic-number](https://github.com/haranck/Leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/haranck/Leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2843-count-symmetric-integers](https://github.com/haranck/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/haranck/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/haranck/Leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/haranck/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
