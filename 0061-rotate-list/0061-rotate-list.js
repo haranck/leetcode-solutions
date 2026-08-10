@@ -10,7 +10,7 @@
  * @param {number} k
  * @return {ListNode}
  */
-var rotateRight = function(head, k) {
+var rotateRight = function (head, k) {
     if (!head || !head.next || k === 0) return head;
 
     let length = 1;
@@ -21,19 +21,20 @@ var rotateRight = function(head, k) {
         length++;
     }
 
-    tail.next = head;
-
     k = k % length;
 
-    let stepsToNewTail = length - k - 1;
+    if(k===0){
+        return head
+    }
     let newTail = head;
 
-    for (let i = 0; i < stepsToNewTail; i++) {
+    for (let i = 1; i < length - k; i++) {
         newTail = newTail.next;
     }
 
-    let newHead = newTail.next;
-    newTail.next = null;
+    let newHead = newTail.next
+    newTail.next = null
+    tail.next = head
 
     return newHead;
 };
