@@ -358,6 +358,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0102-binary-tree-level-order-traversal](https://github.com/haranck/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/haranck/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/haranck/Leetcode-problems/tree/master/0226-invert-binary-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/haranck/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/haranck/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/haranck/Leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/haranck/Leetcode-problems/tree/master/0938-range-sum-of-bst) |
@@ -409,12 +410,14 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0101-symmetric-tree](https://github.com/haranck/Leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/haranck/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/haranck/Leetcode-problems/tree/master/0226-invert-binary-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/haranck/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/haranck/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/haranck/Leetcode-problems/tree/master/0938-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/haranck/Leetcode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/haranck/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/haranck/Leetcode-problems/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/haranck/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/haranck/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
