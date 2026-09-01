@@ -123,6 +123,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0208-implement-trie-prefix-tree](https://github.com/haranck/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/haranck/Leetcode-problems/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/haranck/Leetcode-problems/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/haranck/leetcode-solutions/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/haranck/Leetcode-problems/tree/master/0520-detect-capital) |
 | [0648-replace-words](https://github.com/haranck/leetcode-solutions/tree/master/0648-replace-words) |
 | [0709-to-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/0709-to-lower-case) |
@@ -179,6 +180,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0002-add-two-numbers](https://github.com/haranck/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/haranck/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/haranck/Leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/haranck/leetcode-solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/haranck/Leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
@@ -424,6 +426,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/haranck/leetcode-solutions/tree/master/0394-decode-string) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/haranck/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/haranck/Leetcode-problems/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/haranck/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
