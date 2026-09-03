@@ -4,7 +4,7 @@
  */
 var uniformArray = function (nums1) {
     let min = Math.min(...nums1)
-    console.log(min)
+
     if (min % 2 === 1) {
         return true
     }
