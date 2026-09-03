@@ -11,7 +11,7 @@ var uniformArray = function (nums1) {
     for (let num of nums1) {
         if (num % 2 === 1) {
             return false
-        }   
+        }
     }
     return true
 };
