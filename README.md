@@ -75,6 +75,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [3838-weighted-word-mapping](https://github.com/haranck/Leetcode-problems/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/haranck/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/haranck/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/haranck/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/haranck/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/haranck/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/haranck/Leetcode-problems/tree/master/3925-concatenate-array-with-reverse) |
@@ -227,6 +228,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [3783-mirror-distance-of-an-integer](https://github.com/haranck/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/haranck/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/haranck/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/haranck/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/haranck/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/haranck/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
