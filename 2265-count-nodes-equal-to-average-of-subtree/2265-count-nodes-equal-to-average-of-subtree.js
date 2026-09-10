@@ -36,8 +36,5 @@ var averageOfSubtree = function (root) {
     }
     inOrder(root)
 
-    console.log(Sum(root))
-    console.log(countNodes(root))
-    console.log(count)
     return count
 };
