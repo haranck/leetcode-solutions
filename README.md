@@ -381,6 +381,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0938-range-sum-of-bst](https://github.com/haranck/Leetcode-problems/tree/master/0938-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/haranck/Leetcode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/haranck/Leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/haranck/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -404,6 +405,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0938-range-sum-of-bst](https://github.com/haranck/Leetcode-problems/tree/master/0938-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/haranck/Leetcode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/haranck/Leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/haranck/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Simulation
 |  |
 | ------- |
@@ -431,6 +433,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/haranck/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/haranck/Leetcode-problems/tree/master/0938-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/haranck/Leetcode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/haranck/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
 | ------- |
