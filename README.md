@@ -222,6 +222,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [1979-find-greatest-common-divisor-of-array](https://github.com/haranck/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/haranck/Leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2396-strictly-palindromic-number](https://github.com/haranck/Leetcode-problems/tree/master/2396-strictly-palindromic-number) |
+| [2485-find-the-pivot-integer](https://github.com/haranck/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/haranck/Leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2843-count-symmetric-integers](https://github.com/haranck/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/haranck/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -342,6 +343,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/haranck/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/haranck/Leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/haranck/Leetcode-problems/tree/master/1854-maximum-population-year) |
+| [2485-find-the-pivot-integer](https://github.com/haranck/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/haranck/Leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/haranck/Leetcode-problems/tree/master/3028-ant-on-the-boundary) |
 | [3903-smallest-stable-index-i](https://github.com/haranck/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
