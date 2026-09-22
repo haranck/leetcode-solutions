@@ -58,6 +58,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/haranck/Leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/haranck/Leetcode-problems/tree/master/2678-number-of-senior-citizens) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haranck/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2965-find-missing-and-repeated-values](https://github.com/haranck/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/haranck/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/haranck/leetcode-solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/haranck/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -100,6 +101,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2540-minimum-common-value](https://github.com/haranck/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/haranck/Leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/haranck/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/haranck/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/haranck/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/haranck/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -225,6 +227,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [2485-find-the-pivot-integer](https://github.com/haranck/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/haranck/Leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2843-count-symmetric-integers](https://github.com/haranck/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
+| [2965-find-missing-and-repeated-values](https://github.com/haranck/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/haranck/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/haranck/Leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/haranck/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -471,6 +474,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0036-valid-sudoku](https://github.com/haranck/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/haranck/Leetcode-problems/tree/master/0048-rotate-image) |
 | [1572-matrix-diagonal-sum](https://github.com/haranck/Leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/haranck/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/haranck/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Memoization
 |  |
