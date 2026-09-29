@@ -134,6 +134,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0392-is-subsequence](https://github.com/haranck/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/haranck/leetcode-solutions/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/haranck/Leetcode-problems/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/haranck/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0648-replace-words](https://github.com/haranck/leetcode-solutions/tree/master/0648-replace-words) |
 | [0709-to-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/0709-to-lower-case) |
 | [0942-di-string-match](https://github.com/haranck/Leetcode-problems/tree/master/0942-di-string-match) |
@@ -286,6 +287,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0165-compare-version-numbers](https://github.com/haranck/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/haranck/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/haranck/Leetcode-problems/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/haranck/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/haranck/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/haranck/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/haranck/Leetcode-problems/tree/master/0942-di-string-match) |
