@@ -126,6 +126,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0013-roman-to-integer](https://github.com/haranck/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/haranck/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/haranck/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/haranck/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haranck/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/haranck/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/haranck/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
@@ -456,6 +457,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/haranck/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/haranck/leetcode-solutions/tree/master/0394-decode-string) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/haranck/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/haranck/Leetcode-problems/tree/master/0682-baseball-game) |
@@ -572,6 +574,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/haranck/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/haranck/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/haranck/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
