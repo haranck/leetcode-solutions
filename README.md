@@ -477,6 +477,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/haranck/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/haranck/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/haranck/Leetcode-problems/tree/master/0476-number-complement) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/haranck/Leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -534,6 +535,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/haranck/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/haranck/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/haranck/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/haranck/Leetcode-problems/tree/master/0912-sort-an-array) |
