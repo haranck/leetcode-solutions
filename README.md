@@ -139,6 +139,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0648-replace-words](https://github.com/haranck/leetcode-solutions/tree/master/0648-replace-words) |
 | [0709-to-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/0709-to-lower-case) |
 | [0942-di-string-match](https://github.com/haranck/Leetcode-problems/tree/master/0942-di-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/haranck/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/haranck/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/haranck/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/haranck/Leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
@@ -462,6 +463,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0394-decode-string](https://github.com/haranck/leetcode-solutions/tree/master/0394-decode-string) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/haranck/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/haranck/Leetcode-problems/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/haranck/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/haranck/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/haranck/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/haranck/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -578,6 +580,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/haranck/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/haranck/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/haranck/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/haranck/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
