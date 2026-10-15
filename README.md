@@ -59,6 +59,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/haranck/Leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/haranck/Leetcode-problems/tree/master/2678-number-of-senior-citizens) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haranck/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/haranck/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/haranck/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/haranck/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/haranck/leetcode-solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
@@ -104,6 +105,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2540-minimum-common-value](https://github.com/haranck/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/haranck/Leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/haranck/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/haranck/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/haranck/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/haranck/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -588,4 +590,12 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [1021-remove-outermost-parentheses](https://github.com/haranck/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/haranck/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/haranck/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/haranck/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/haranck/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
