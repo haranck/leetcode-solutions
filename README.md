@@ -49,6 +49,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/haranck/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/haranck/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/haranck/Leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/haranck/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/haranck/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/haranck/Leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/haranck/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -205,6 +206,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/haranck/leetcode-solutions/tree/master/1291-sequential-digits) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/haranck/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2843-count-symmetric-integers](https://github.com/haranck/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/haranck/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -282,6 +284,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/haranck/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/haranck/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/haranck/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Two Pointers
 |  |
@@ -492,6 +495,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0190-reverse-bits](https://github.com/haranck/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/haranck/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/haranck/Leetcode-problems/tree/master/0476-number-complement) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/haranck/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/haranck/Leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/haranck/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Matrix
