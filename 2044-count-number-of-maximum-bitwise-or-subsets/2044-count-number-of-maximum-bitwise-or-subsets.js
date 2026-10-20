@@ -2,7 +2,7 @@
  * @param {number[]} nums
  * @return {number}
  */
-var countMaxOrSubsets = function(nums) {
+var countMaxOrSubsets = function (nums) {
     let max = 0;
 
     for (let num of nums) {
