@@ -69,6 +69,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [3028-ant-on-the-boundary](https://github.com/haranck/Leetcode-problems/tree/master/3028-ant-on-the-boundary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/haranck/Leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3046-split-the-array](https://github.com/haranck/Leetcode-problems/tree/master/3046-split-the-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/haranck/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/haranck/Leetcode-problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/haranck/Leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/haranck/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -312,6 +313,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [2396-strictly-palindromic-number](https://github.com/haranck/Leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/haranck/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haranck/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/haranck/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/haranck/Leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3794-reverse-string-prefix](https://github.com/haranck/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/haranck/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -454,6 +456,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [2181-merge-nodes-in-between-zeros](https://github.com/haranck/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/haranck/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3028-ant-on-the-boundary](https://github.com/haranck/Leetcode-problems/tree/master/3028-ant-on-the-boundary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/haranck/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/haranck/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/haranck/Leetcode-problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/haranck/Leetcode-problems/tree/master/3838-weighted-word-mapping) |
