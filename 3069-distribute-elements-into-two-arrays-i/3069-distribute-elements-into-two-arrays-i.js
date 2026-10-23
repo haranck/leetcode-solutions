@@ -2,7 +2,7 @@
  * @param {number[]} nums
  * @return {number[]}
  */
-var resultArray = function(nums) {
+var resultArray = function (nums) {
 
     const arr1 = [nums[0]];
     const arr2 = [nums[1]];
@@ -16,5 +16,5 @@ var resultArray = function(nums) {
     }
 
     return [...arr1, ...arr2];
-    
+
 };
