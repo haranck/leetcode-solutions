@@ -158,6 +158,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [2129-capitalize-the-title](https://github.com/haranck/Leetcode-problems/tree/master/2129-capitalize-the-title) |
 | [2278-percentage-of-letter-in-string](https://github.com/haranck/Leetcode-problems/tree/master/2278-percentage-of-letter-in-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2409-count-days-spent-together](https://github.com/haranck/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2490-circular-sentence](https://github.com/haranck/Leetcode-problems/tree/master/2490-circular-sentence) |
 | [2678-number-of-senior-citizens](https://github.com/haranck/Leetcode-problems/tree/master/2678-number-of-senior-citizens) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/haranck/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -241,6 +242,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [1979-find-greatest-common-divisor-of-array](https://github.com/haranck/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/haranck/Leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2396-strictly-palindromic-number](https://github.com/haranck/Leetcode-problems/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/haranck/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/haranck/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/haranck/Leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2843-count-symmetric-integers](https://github.com/haranck/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
