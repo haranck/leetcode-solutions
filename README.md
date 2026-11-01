@@ -21,6 +21,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0189-rotate-array](https://github.com/haranck/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/haranck/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/haranck/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/haranck/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/haranck/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/haranck/leetcode-solutions/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/haranck/Leetcode-problems/tree/master/0682-baseball-game) |
@@ -228,6 +229,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0070-climbing-stairs](https://github.com/haranck/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/haranck/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/haranck/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/haranck/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/haranck/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/haranck/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/haranck/Leetcode-problems/tree/master/0728-self-dividing-numbers) |
@@ -336,6 +338,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0075-sort-colors](https://github.com/haranck/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/haranck/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/haranck/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/haranck/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/haranck/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/haranck/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/haranck/Leetcode-problems/tree/master/1051-height-checker) |
