@@ -21,6 +21,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0189-rotate-array](https://github.com/haranck/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/haranck/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/haranck/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/haranck/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/haranck/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/haranck/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/haranck/leetcode-solutions/tree/master/0648-replace-words) |
@@ -229,6 +230,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0070-climbing-stairs](https://github.com/haranck/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/haranck/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/haranck/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/haranck/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/haranck/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/haranck/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/haranck/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
