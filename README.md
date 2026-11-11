@@ -57,6 +57,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/haranck/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/haranck/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/haranck/Leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/haranck/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2540-minimum-common-value](https://github.com/haranck/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/haranck/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/haranck/Leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
@@ -519,6 +520,7 @@ Improve problem-solving skills, strengthen DSA concepts, and prepare for technic
 | [0036-valid-sudoku](https://github.com/haranck/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/haranck/Leetcode-problems/tree/master/0048-rotate-image) |
 | [1572-matrix-diagonal-sum](https://github.com/haranck/Leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/haranck/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/haranck/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/haranck/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Memoization
